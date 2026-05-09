@@ -1,0 +1,1 @@
+Arquivo simulado para testes de bloqueio de dados.
